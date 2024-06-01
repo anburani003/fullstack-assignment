@@ -154,5 +154,5 @@ CSRF_COOKIE_SAMESITE = "None"
 ALLOWED_HOSTS = [
     '127.0.0.1',
     'localhost',
-    '54.161.38.129',
+    '54.164.79.133',
 ]
